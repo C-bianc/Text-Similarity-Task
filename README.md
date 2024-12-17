@@ -4,7 +4,7 @@ Program that retrieves n-most (by default 3) similar docs in French only.
 All details regarding preprocessing, training and inference can be found in the paper.
 
 ## Training data
-The data used for training was Belgian French news from the publicly available (RTBF corpus)[https://dial.uclouvain.be/pr/boreal/object/boreal:276580]
+The data used for training was Belgian French news from the publicly available [RTBF corpus](https://dial.uclouvain.be/pr/boreal/object/boreal:276580)
 
 ## Model
 The model used was Word2Vec.
