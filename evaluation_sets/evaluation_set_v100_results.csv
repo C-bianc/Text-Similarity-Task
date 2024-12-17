@@ -1,0 +1,11 @@
+BEST,Count - BEST,,
+all,18,,
+doc2v_results,6,,
+improved_w2v_results,13,,
+simple_w2v_results,85,,"0,236641221374046"
+simple_w2v_results / improved_w2v_results,9,,
+(empty),,,simple_w2v
+Total Result,131,,"0,786259541984733"
+,,,
+,,doc2v performed very poor,
+,,models started to not dot well on unseen data,
